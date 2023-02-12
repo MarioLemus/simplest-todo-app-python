@@ -1,0 +1,10 @@
+# user interaction logs
+log_welcome = "Welcome to your TO-DO app we are more than glad to save you a bunch of time with our functionalities"
+log_instruct_new_todo = "Write a new todo"
+log_input_title = "Title:"
+log_error_input_title = "Error: Title is mandatory, so add it"
+log_input_desc = "Description:"
+log_default_desc_text = "No todo description"
+log_response_success = "TO-DO saved succesfuly"
+log_new_todo_question = "Do you wanna save another TO-DO? If yes type 'y' else 'press any letter':"
+log_list_todos = "Your TO-DO's:"
